@@ -46,8 +46,8 @@ final_project/
 │   └── mywebscript.js          # Client-side logic for the interface
 │
 ├── templates/                  # HTML templates
-│   └── index.html              # Main user interface (includes embedded CSS)
+│   └── index.html              # Main user interface 
 │
-├── server.py                   # Main Flask server (PyLint score: 10/10)
+├── server.py                   # Main Flask server 
 ├── test_emotion_detection.py   # Unit testing script
 └── README.md                   # Project documentation
