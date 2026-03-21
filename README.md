@@ -33,6 +33,7 @@ To run this application, you need to install the following Python packages:
 ```bash
 pip3 install flask requests pylint
 ```
+---
 ## Project Structure
 ```bash
 final_project/
