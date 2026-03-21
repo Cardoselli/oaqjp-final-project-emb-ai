@@ -10,8 +10,6 @@ In this final project, you will be assessed on the knowledge gained on all aspec
 
 In this project, we use the embeddable Watson AI libraries to create an emotion detection application. Emotion detection extends the concept of sentiment analysis by extracting the finer emotions, like joy, sadness, anger, and so on, from statements rather than the simple polarity that sentiment analysis provides. This makes emotion detection a very important branch of study and businesses use such systems widely for their AI based recommendation systems, automated chat bots, and so on.
 
-## Prerequisite
-Before you begin this project, make sure you have an active GitHub account. You'll be using GitHub to create and manage the repository for this lab.
 
 ## Project Guidelines
 For the completion of this project, you'll have to complete the following 8 tasks:
