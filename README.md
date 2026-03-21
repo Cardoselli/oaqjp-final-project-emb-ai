@@ -34,7 +34,7 @@ To run this application, you need to install the following Python packages:
 pip3 install flask requests pylint
 ```
 
-
+```bash
 final_project/
 │
 ├── EmotionDetection/           # Core logic package
