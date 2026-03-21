@@ -27,8 +27,25 @@ For the completion of this project, you'll have to complete the following 8 task
 ---
 
 
-## Installation
+## Packages 
 To run this application, you need to install the following Python packages:
 
 ```bash
 pip3 install flask requests pylint
+
+
+final_project/
+│
+├── EmotionDetection/           # Core logic package
+│   ├── __init__.py             # Makes the directory a Python package
+│   └── emotion_detection.py    # Watson API interaction & formatting
+│
+├── static/                     # Web assets
+│   └── mywebscript.js          # Client-side logic for the interface
+│
+├── templates/                  # HTML templates
+│   └── index.html              # Main user interface (includes embedded CSS)
+│
+├── server.py                   # Main Flask server (PyLint score: 10/10)
+├── test_emotion_detection.py   # Unit testing script
+└── README.md                   # Project documentation
